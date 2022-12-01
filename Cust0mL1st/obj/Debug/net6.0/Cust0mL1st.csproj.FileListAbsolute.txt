@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\bin\Debug\net6.0\Cust0mL1st.exe
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\bin\Debug\net6.0\Cust0mL1st.deps.json
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\bin\Debug\net6.0\Cust0mL1st.runtimeconfig.json
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\bin\Debug\net6.0\Cust0mL1st.dll
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\bin\Debug\net6.0\Cust0mL1st.pdb
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.dll
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\refint\Cust0mL1st.dll
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.pdb
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\Cust0mL1st.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Cust0mL1st\Cust0mL1st\obj\Debug\net6.0\ref\Cust0mL1st.dll
